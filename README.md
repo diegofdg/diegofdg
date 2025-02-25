@@ -8,8 +8,7 @@
 <br/>
 <br/>
 
-<p align="center">- 🌱 I’m currently studying  
-  <a href="https://www.youtube.com/playlist?list=PLQAqNGvxctZQe3-Db9hZ4lNKaXupEq9el">[Introducción a .NET 6.0 - Polo Tecnológico Mina Clavero]</a>
+<p align="center">- 🌱 I’m currently studying Data Science
 </p>
 
 <h3 align="center">Connect with me:</h3>
